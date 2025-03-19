@@ -28,8 +28,8 @@ We introduce **BlockList**, an **interactive drag-and-drop game** designed to te
 🧩 **Engaging Challenges** – Solve puzzles by performing **insertion & deletion**  
 📈 **Visual Feedback** – See the impact of your actions in real time  
 
-![User scenario of Level 4 of BlockList. [A] displays the game's first scene with goal description, block arrangement, a pile of blocks, and a life bar. [B] depicts the scenario when the user takes the wrong step towards the goal. [C] and [D] represent the user's intermediate steps to achieve the goal. [E] shows the final scene where the user achieves the goal and generates the required block arrangement.](Level4.png)  
-
+![](Level4.png)  
+**Descritpion**: _User scenario of Level 4 of BlockList. [A] displays the game's first scene with goal description, block arrangement, a pile of blocks, and a life bar. [B] depicts the scenario when the user takes the wrong step towards the goal. [C] and [D] represent the user's intermediate steps to achieve the goal. [E] shows the final scene where the user achieves the goal and generates the required block arrangement. _
 
 ---
 
